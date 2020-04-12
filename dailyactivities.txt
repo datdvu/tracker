@@ -1,0 +1,4 @@
+2020-04-10
+{'Work': 5.0, 'Sleep': 10.5, 'EE': 2.5, 'Workout': 3.0, 'Self-care': 3.0}
+2020-04-11
+{'Work': 2.0, 'Sleep': 9.0, 'EE': 4.5, 'Workout': 2.0, 'Self-care': 6.5}
